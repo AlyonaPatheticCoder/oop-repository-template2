@@ -1,4 +1,4 @@
-using Isu.Entities;
+﻿using Isu.Entities;
 using Isu.Models;
 
 namespace Isu.Services;
